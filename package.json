@@ -1,0 +1,15 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "A simple Weather Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xregexp": "3.1.1",
+    "yql": "1.0.2"
+  }
+}
