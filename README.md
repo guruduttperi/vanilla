@@ -5,4 +5,6 @@ I used YQL, Yahoo's Structured Query Language to retrieve geolocation data, and 
 
 I used Nodemon for running the bot, and used XRegExp to get patterns in the user's input string by converting the string to Regular Expressions.
 
-![myimage-alt-tag](http://imgur.com/a/bt2WU)
+
+![screenshot](screenshot.png)
+
