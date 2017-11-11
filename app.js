@@ -17,9 +17,6 @@ rl.setPrompt('> ');
 rl.prompt();
 //EventListener
 rl.on('line', reply =>{
-  /* For Echo
-  console.log(`You said  "${reply}"`);
-  rl.prompt();*/
   //data is a variable used for callback
   matcher(reply,data => {
     switch (data.intent) {
