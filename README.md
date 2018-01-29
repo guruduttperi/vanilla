@@ -15,16 +15,16 @@ Steps to run the bot:
 
 3. Install the following:
 
-   npm install nodemon
+      npm install nodemon
    
-   npm install xregexp
+      npm install xregexp
    
-   npm install yql
+      npm install yql
    
    
 4. Run the bot:
   
-   nodemon app.js
+      nodemon app.js
 
 
 ![screenshot](screenshot.png)
